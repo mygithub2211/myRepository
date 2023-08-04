@@ -1,1 +1,2 @@
 # myRepository
+read LICENSE
