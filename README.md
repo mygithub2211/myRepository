@@ -1,2 +1,4 @@
 # myRepository
-read LICENSE
+Creating a simple HTML webpage with CSS formatting
+
+Read LICENSE
