@@ -1,0 +1,59 @@
+h1{
+  font-family: Cursive;
+  font-size: 25pt;
+  background: #FFFFFF;
+  color: black;
+  text-align: center;
+}
+
+h3{
+  font-family: Cursive;
+  background: #FFFFFF;
+  color: blue;
+}
+
+li{
+  font-family: Monospace;
+  background: #FFFFFF;
+  color: black;
+}
+
+.chocolate{
+  color: brown;
+}
+
+.strawberry{
+  color: #ff0066;
+}
+
+#iceCream{
+  float: right;
+  width: 100px;
+}
+
+table{
+  border-bottom: 2px solid blue;
+  border-right: 2px solid blue;
+  background: lightsteelblue;
+}
+
+td{
+  font-family: Monospace;
+  border-left: 2px solid blue;
+  border-top: 2px solid blue;
+  text-align: center;
+}
+
+th{
+  font-family: Cursive;
+  border-left: 2px solid blue;
+  border-top: 2px solid blue;
+}
+
+tr:nth-child(even) {
+  background: steelblue;
+}
+
+p{
+  font-family: Monospace;
+}
